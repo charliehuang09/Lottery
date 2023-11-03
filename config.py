@@ -1,0 +1,9 @@
+lr = 1e-3
+warmup_lr = 1e-5
+epoch = 250
+prune_percent = 0.0
+warmup_steps = 3
+seed = 42
+iterations = 15
+iteration_epoch = 25
+pretrain_epoch = 5
